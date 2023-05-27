@@ -4,15 +4,15 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DefaultFragment"
-    android:background="@color/material_dynamic_neutral_variant20">
+    tools:context=".DefaultFragment">
     <TextView
         android:id="@+id/textView2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="10dp"
+        android:background="@drawable/rounded_shape"
         android:text="THIS IS THE DEFAULT FRAGMENT "
-        android:textColor="@color/design_default_color_on_primary"
+        android:textColor="@color/black"
         android:textAlignment="center"
         android:textSize="40sp"
         android:textStyle="bold"

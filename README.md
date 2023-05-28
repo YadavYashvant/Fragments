@@ -1,2 +1,2 @@
 # Fragments
-This app is a basic use of Fragments in android.
+This app demonstrates a basic use of Fragments in android.
